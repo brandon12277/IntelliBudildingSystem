@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState,useEffect } from 'react'
-import "./Landing.css"
+import "../css/Landing.css"
 import LoadingSpinner from "./LoadingSpinner"
 
 export const Landing = () => {
